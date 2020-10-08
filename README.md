@@ -12,11 +12,11 @@
 
 http://kiritori.work
 
-###　開発環境
+### 開発環境
 
 HTML/Sass/javascript/jQuery/PHP/WordPress/AmazonLightsail
 
-###　ポイント
+### ポイント
 
 - 日常をきりとるというテーマの元、はさみモチーフを取り入れ、全体に統一感を持たせました。
 - About ページではデスクトップの場合、遊び心ではさみをクリックすると SNS 欄がきりおとされる動きを取り入れています。
