@@ -1,0 +1,16 @@
+//テスト
+
+h1 {
+  color: red;
+
+  &:hover {
+    color: blue;
+  }
+}
+
+p {
+  color: blue;
+  &:hover {
+    transform: translateX(50px);
+  }
+}
