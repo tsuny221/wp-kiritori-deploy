@@ -1202,6 +1202,10 @@ header {
   color: #808085 !important;
 }
 
+.blog__box:nth-of-type(1) .blog__item {
+  opacity: 1;
+}
+
 .blog__head {
   text-align: center;
 }

@@ -12,7 +12,7 @@
                 </p>
                 <!-- 記事一個分 -->
                 <?php if(have_posts()) : while(have_posts()) : the_post(); ?>
-                    <a href="<?php the_permalink(); ?>">
+                    <a href="<?php the_permalink(); ?>" class="blog__box">
                       <div class="blog__item scroll-up">
 
                         <div class="blog__img hover-animation">

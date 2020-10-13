@@ -226,6 +226,11 @@ header {
   & > a:hover {
     color: $cCaption !important;
   }
+  &__box:nth-of-type(1) {
+    .blog__item {
+      opacity: 1;
+    }
+  }
   &__head {
     @extend .mb-lg;
     text-align: center;
@@ -326,13 +331,6 @@ header {
   transform: translateY(-50%);
   transition: all 0.3s ease-in;
 
-  // & .tween-animate-title {
-  //   color: $cBlack;
-  //   text-decoration: none !important;
-  //   margin: 0 40px;
-  //   vertical-align: middle; //inline要素に指定する
-  //   letter-spacing: 2px;
-  // }
   .scissors {
     font-size: 15px;
     vertical-align: middle;
